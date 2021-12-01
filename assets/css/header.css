@@ -1,0 +1,81 @@
+/* ---------------------------------------------------------------- 
+                              start fonts
+----------------------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2? family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Montserrat:wght@100&family=Raleway:wght@100&family=Ubuntu:ital,wght@1,300&display=swap');
+
+/* ---------------------------------------------------------------- 
+                              end fonts
+---------------------------------------------------------------- */
+html{
+    padding-top: 0%;
+    margin: 0%;
+    
+}
+h1{
+    text-align: none;
+}
+
+    /* Picture head */
+.yumbotron {
+    background-image: url("../image/gt.png" );
+    background-size: cover;
+}
+
+ /* FIN */
+
+
+h1{
+    color: rgb(207, 223, 207);
+    text-align: none;
+}
+h2{
+    color: rgb(84, 184, 150);
+}
+
+header{
+    background: rgb(156, 192, 226);
+}
+.navbar{
+    background: rgb(216, 172, 153);
+}
+
+.nav-item:hover{
+background: linear-gradient( rgba(188,62,255,1), rgba(102,110,255,1), rgba(82,226,140,1)  );
+}
+.nav-link{
+   color: black;
+}
+/* video */
+video{
+    height: 50%;
+    width: 80%;
+    padding: -20%;
+    margin-right: 50%;
+ 
+}
+/* fin de l'instruction de la video */
+
+
+/* mon css dans la partie du contact */
+
+
+/* elles ont marqué l'histoire */
+.name{
+    width: 350px;
+    padding: 10px;
+    padding-top: 10%;
+}
+.text2{
+    padding-top: 7%;
+}
+.text1{
+    padding-top: -2%;
+    padding: -3%;
+}
+.text3{
+    padding-top: 3%;
+    padding-left: 2%;
+}

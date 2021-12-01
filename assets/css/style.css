@@ -1,0 +1,6 @@
+body{
+    background-image: url("../image/rtdd.jpg" )
+}
+.container :hover{
+    background:linear-gradient( rgb(147, 224, 218), rgba(109, 148, 192, 0.911));
+}
